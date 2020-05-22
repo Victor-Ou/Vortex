@@ -4,7 +4,7 @@ This project is an experimentation with a javascript library called three.js. Th
 
 ## How it was built 
 
-This project was built using minimal amounts of html/css with a ton of javascript. 
+This project was built using minimal amounts of html/css with a ton of javascript. Within javascript, the libraries used were three.js, OrbitControls.js and TweenMax.js.
 
 ## Setup
 
@@ -12,7 +12,7 @@ To run the program locally after copying the html/css/javascript code, the user 
 
 ## How it looks
 
-Screenshots of the app can be found under...
+Screenshots of the app are located in Vortex.JPG and VortexSide.JPG. In order for the user to experience the functionality of the website, the user is recommended to download or copy the repository.
 
 ## Credits 
 As a beginner, this project was made with a bottom-up learning style. Building this project required a lot of research and tutorials. The tutorials that were used for this project are Red Stapler's 3D Space Warp JavaScript Effect: https://www.youtube.com/watch?v=Bed1z7f1EI4 and DesignCourse's Three.js Crash Course for Absolute Beginners: https://www.youtube.com/watch?v=6oFvqLfRnsU.
