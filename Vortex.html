@@ -100,7 +100,7 @@
                     bevelSegments: 5
                 } );
                 geometry.center();
-                var material = new THREE.MeshNormalMaterial();
+                var material = new THREE.MeshLambertMaterial({color: "#ff0000"});
                 var mesh = new THREE.Mesh( geometry, material );
                 mesh.position.y = -3
                 mesh.position.x = 0
